@@ -112,3 +112,5 @@ function public.decrypt(password, data, keyLength, mode)
     
     return result;
 end
+
+return public;
